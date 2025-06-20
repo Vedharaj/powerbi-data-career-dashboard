@@ -20,3 +20,8 @@ This **Power BI dashboard** visualizes insights from a survey of **630 data prof
 ## 🔧 Tools Used
 - Power BI Desktop
 - Microsoft Excel (for data cleaning)
+
+## How to Use
+- Open *Data Professional Survey Breakdown.pbix* in Power BI Desktop.
+- Connect or replace with your own job dataset
+- Refresh visuals to update insights.
